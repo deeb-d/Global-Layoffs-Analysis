@@ -25,6 +25,6 @@ layoffs_analysis.py -> the Python script used for the analysis
 README.md        → the overview of the project
 
 An interactive version of the dashboard can be viewed here:
-https://public.tableau.com/app/profile/deeb.deeb/viz/GlobalTechLayoffsAnalysis/CompanyLayoffs
+https://public.tableau.com/app/profile/deeb.deeb/viz/GlobalTechLayoffsAnalysis/LayoffsAnalysis
 
 I created this project after completing the Google Data Analytics certificate to practice working through a full analytics workflow which is data -> cleaning -> analysis -> visualization -> dashboard

@@ -5,7 +5,7 @@ What I did:
 - Identified companies with the largest layoffs
 - Analyzed layoffs by country and industry
 - Examined how layoffs changed over time
-- Built an interactive dashboard in Tableau
+- Built a dashboard in Tableau
   
 Tools I used:
 - Python
@@ -24,7 +24,7 @@ data_clean -> is the cleaned dataset used for the analysis
 layoffs_analysis.py -> the Python script used for the analysis  
 README.md        → the overview of the project
 
-An interactive version of the dashboard can be viewed here:
+The dashboard can be viewed here:
 https://public.tableau.com/app/profile/deeb.deeb/viz/GlobalTechLayoffsAnalysis/LayoffsAnalysis
 
 I created this project after completing the Google Data Analytics certificate to practice working through a full analytics workflow which is data -> cleaning -> analysis -> visualization -> dashboard

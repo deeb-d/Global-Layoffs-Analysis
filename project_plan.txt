@@ -1,6 +1,6 @@
 Goal: analyze global layoffs trends
 
-Tools: Excel, Python, Tableau Public
+Tools: Excel, Python, Tableau Public, Pandas
 
 Project process:
 I analyzed global layoffs to identify which companies, countries, industries, and funding stages were most affected, and how these trends evolved over time

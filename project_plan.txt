@@ -1,0 +1,32 @@
+Goal: analyze global layoffs trends
+
+Tools: Excel, Python, Tableau Public
+
+Project process:
+I analyzed global layoffs to identify which companies, countries, industries, and funding stages were most affected, and how these trends evolved over time
+
+Questions:
+
+Which companies laid off the most people?
+
+Which countries were hit hardest?
+
+Which industries were hit hardest?
+
+How did layoffs change over time?
+
+Which stage of companies had the biggest layoffs?
+
+
+Issues with the data:
+
+- Blank cells in "% laid off"
+- Blank cells in "funds raised"
+- Non-U.S locations are not labeled as such 
+- Names of cities typos
+- Blank countries 
+- Blank "Stages"
+- Blank source links
+- Blank industries	
+- Blank "total laid off" cells
+- Blank cities 

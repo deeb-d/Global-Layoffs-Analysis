@@ -11,6 +11,7 @@ Tools I used:
 - Python
 - Pandas
 - Tableau Public
+- Excel
 
 Main things I found:
 - Amazon had the highest number of layoffs in the dataset
